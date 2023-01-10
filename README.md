@@ -4,3 +4,5 @@
 [![Fuzzy2319's Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Fuzzy2319&theme=highcontrast&count_private=true)](https://github.com/Fuzzy2319/)
 # GitHub Profile Trophy
 [![Fuzzy2319's Trophy](https://github-profile-trophy.vercel.app/?username=Fuzzy2319&theme=matrix)](https://github.com/Fuzzy2319/)
+# TryHackMe
+[![Fuzzy2319's TryHackMe Profile](https://tryhackme-badges.s3.amazonaws.com/Fuzzy2319.png)](https://tryhackme.com/p/Fuzzy2319)
